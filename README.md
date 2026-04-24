@@ -1,33 +1,69 @@
-# 
-<h2>I don't know shi <br>
-But I can probably figure it out</h2>
-
-<h3>💫 About Me:</h3>
-I am learning Python for machine learning. I have experience in C, C++, C#, JavaScript, react, <br>html, css, and MongoDB 
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Root_User_901) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RazaAliMurtaza) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RAZAAli901&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RAZAAli901&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RAZAAli901&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=RAZAAli901&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Raza%20Ali&fontSize=80&fontAlignY=35&desc=AI%20Video%20Specialist%20%7C%202D%20Animator%20%7C%20CS%20Student&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
-###
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&lines=AI+Video+Specialist;2D+Animator+%26+Motion+Graphics;C%2B%2B+%26+Python+Developer;Machine+Learning+(YOLOv8)" alt="Typing SVG" />
+</div>
+
+<br>
+
+## 🎯 About Me
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="500" alt="AI Animation"/>
+</div>
+
+<p align="center">
+  <em>"Crafting dynamic visuals and intelligent systems — turning raw data and creative concepts into real-world impact."</em>
+</p>
+
+<div align="center">
+  
+🧠 Working on **custom YOLOv8 facial recognition models and AI video production pipelines** 🌱 Exploring **C++ logic optimization and Full Stack Development** 🤝 Open to collaborate on **Freelance motion graphics and machine learning integrations** 💬 Ask me about **Python, C++, 2D Animation, or Elden Ring mechanics**
+
+</div>
+
+---
+
+## 🌐 Socials
+<p align="center">
+  <a href=""><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href=""><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/></a>
+</p>
+
+---
+
+## 🛠️ Tech & Creative Stack
+
+### 💻 Programming & Scripting
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css&theme=dark" alt="Programming"/>
+</p>
+
+### 🤖 Machine Learning & Data
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,mongodb,sqlite&theme=dark" alt="ML Stack"/>
+  <br>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
+
+### 🎨 Animation & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ae,pr,ps,ai,git,github,vscode&theme=dark" alt="Tools"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Repository |
+|---------|-------------|------------|
+| **Project One** | Description of your first major project or freelance gig. | [View Repo]() |
+| **Project Two** | Description of your second major project or freelance gig. | [View Repo]() |
+| **Project Three** | Description of your third major project or freelance gig. | [View Repo]() |
+| **Project Four
