@@ -1,11 +1,3 @@
-<div align="center">
-
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=cc0000&height=200&section=header&text=RAZA%20ALI&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Blockchain%20%E2%80%A2%20Post-Quantum%20Cryptography%20%E2%80%A2%20Quantum%20Engineering&descAlignY=58&descSize=16&descColor=ffaaaa" />
-
-<!-- PROFILE VIEWS + TWITTER FOLLOW -->
-<p>
-
 <br><div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=cc0000&height=200&section=header&text=Raza%20Ali&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20Video%20Specialist%20%E2%80%A2%20Full%20Stack%20Dev%20%E2%80%A2%20CS%20Student&descAlignY=58&descSize=16&descColor=ffaaaa" />
