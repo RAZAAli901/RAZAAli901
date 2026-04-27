@@ -10,7 +10,7 @@
 
 ## 🎯 About Me
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="500" alt="AI Animation"/>
+  <img src="Christian-Dior.gif" width="500" alt="AI Animation"/>
 </div>
 
 <p align="center">
