@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=cc0000&height=200&section=header&text=Hafiz%20Burhan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Blockchain%20%E2%80%A2%20Post-Quantum%20Cryptography%20%E2%80%A2%20Quantum%20Engineering&descAlignY=58&descSize=16&descColor=ffaaaa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=cc0000&height=200&section=header&text=RAZA%20ALI&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Blockchain%20%E2%80%A2%20Post-Quantum%20Cryptography%20%E2%80%A2%20Quantum%20Engineering&descAlignY=58&descSize=16&descColor=ffaaaa" />
 
 <!-- PROFILE VIEWS + TWITTER FOLLOW -->
 <p>
