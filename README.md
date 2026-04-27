@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Raza%20Ali&fontSize=80&fontAlignY=35&desc=AI%20Video%20Specialist%20%7C%202D%20Animator%20%7C%20CS%20Student&descAlignY=55&descAlign=50" width="100%"/>
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&lines=AI+Video+Specialist;2D+Animator+%26+Motion+Graphics;C%2B%2B+%26+Python+Developer;Machine+Learning+(YOLOv8)" alt="Typing SVG" />
-</div>
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=cc0000&height=200&section=header&text=Hafiz%20Burhan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Blockchain%20%E2%80%A2%20Post-Quantum%20Cryptography%20%E2%80%A2%20Quantum%20Engineering&descAlignY=58&descSize=16&descColor=ffaaaa" />
+
+<!-- PROFILE VIEWS + TWITTER FOLLOW -->
+<p>
 
 <br>
 
