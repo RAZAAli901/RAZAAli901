@@ -2,9 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=cc0000&height=200&section=header&text=Raza%20Ali&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20Video%20Specialist%20%E2%80%A2%20Full%20Stack%20Dev%20%E2%80%A2%20CS%20Student&descAlignY=58&descSize=16&descColor=ffaaaa" />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=RAZAAli901&label=Profile%20Views&color=cc0000&style=flat-square" alt="profile views" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&lines=Senior+Full+Stack+AI+Developer;Machine+Learning+Specialist;MERN+Stack+Expert;Advanced+Python+Developer" alt="Typing SVG" />
+</div>
 
 </div>
 
