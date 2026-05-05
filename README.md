@@ -90,7 +90,7 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=RAZAAli901&theme=tokyonight&hide_border=true&background=0D1117&stroke=6A5ACD&ring=6A5ACD&fire=FF6B6B&currStreakLabel=6A5ACD" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=RAZAAli901&theme=tokyonight&hide_border=true&background=0D1117&stroke=6A5ACD&ring=6A5ACD&fire=FF6B6B&currStreakLabel=6A5ACD" alt="GitHub Streak" />
 
 <br/><br/>
 
