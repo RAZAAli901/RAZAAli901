@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=cc0000&height=200&section=header&text=Raza%20Ali&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20Video%20Specialist%20%E2%80%A2%20Full%20Stack%20Dev%20%E2%80%A2%20CS%20Student&descAlignY=58&descSize=16&descColor=ffaaaa" />
@@ -82,8 +81,12 @@
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RAZAAli901&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD&text_color=FFFFFF&cache_seconds=86400" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAZAAli901&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&text_color=FFFFFF&cache_seconds=86400" alt="Most Used Languages"/>
+<img height="180em" src="https://github-stats-alpha.vercel.app/api?username=RAZAAli901&cc=0D1117&tc=6A5ACD&ic=6A5ACD&bc=0D1117" alt="GitHub Stats"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RAZAAli901&theme=tokyonight" alt="Repos Per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RAZAAli901&theme=tokyonight" alt="Most Commit Language"/>
 
 <br/><br/>
 
