@@ -128,3 +128,16 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/RAZAAli901/RAZAAli901/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/RAZAAli901/RAZAAli901/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake Animation" width="100%"
+      src="https://raw.githubusercontent.com/RAZAAli901/RAZAAli901/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</p>
