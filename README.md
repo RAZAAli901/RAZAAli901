@@ -14,12 +14,12 @@
 
 <img src="Christian-Dior.gif" width="500" alt="AI Animation"/>
 
-<p><em>"Crafting dynamic visuals and intelligent systems — turning raw data and creative concepts into real-world impact."</em></p>
+<p><em>"Crafting dynamic visuals and intelligent systems turning raw data and creative concepts into real-world impact."</em></p>
 
 🧠 Working on **custom YOLOv8 facial recognition models and AI video production pipelines**
 🌱 Exploring **C++ logic optimization and Full Stack Development**
 🤝 Open to collaborate on **Freelance motion graphics and machine learning integrations**
-💬 Ask me about **Python, C++, 2D Animation, or Elden Ring mechanics**
+💬 Ask me about **Python, C++, or Elden Ring mechanics**
 
 </div>
 
@@ -51,24 +51,6 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 
-### 🎨 Animation & Tools
-<img src="https://skillicons.dev/icons?i=ae,pr,ps,ai,git,github,vscode&theme=dark" alt="Tools"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Repository |
-|---------|-------------|------------|
-| **Project One** | Description of your first major project or freelance gig. | [View Repo]() |
-| **Project Two** | Description of your second major project or freelance gig. | [View Repo]() |
-| **Project Three** | Description of your third major project or freelance gig. | [View Repo]() |
-| **Project Four** | Description of your fourth major project or freelance gig. | [View Repo]() |
-
 </div>
 
 ---
@@ -76,8 +58,6 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RAZAAli901&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 
 <br/><br/>
 
@@ -93,8 +73,6 @@
 <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=RAZAAli901&theme=tokyonight&hide_border=true&background=0D1117&stroke=6A5ACD&ring=6A5ACD&fire=FF6B6B&currStreakLabel=6A5ACD" alt="GitHub Streak" />
 
 <br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RAZAAli901&bg_color=0D1117&color=6A5ACD&line=6A5ACD&point=FF6B6B&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
 
